@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{00DB2DF9-616F-45E3-BBB2-1D27FD483F43}"
 	ProjectSection(SolutionItems) = preProject
+		100 трафаретов.7z = 100 трафаретов.7z
 		LeaderBoard.doc = LeaderBoard.doc
 	EndProjectSection
 EndProject
