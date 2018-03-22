@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{A58FFBEE-CC83-4C13-B6B2-9C5FC9E37F6D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{00DB2DF9-616F-45E3-BBB2-1D27FD483F43}"
+	ProjectSection(SolutionItems) = preProject
+		LeaderBoard.doc = LeaderBoard.doc
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
